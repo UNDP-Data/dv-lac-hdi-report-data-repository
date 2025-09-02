@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 530.15 281.76">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #008892;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: ProximaNova-Bold, 'Proxima Nova';
+        font-size: 8.24px;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-4 {
+        fill: #00b4c2;
+      }
+
+      .cls-5 {
+        fill: #00555c;
+      }
+
+      .cls-6 {
+        fill: #f26a36;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-5" points="356.32 131.28 174.42 131.28 131.81 73.45 265.37 73.45 398.93 73.45 356.32 131.28"/>
+  <polygon class="cls-1" points="197.48 165.36 176.33 133.57 354.41 133.57 333.26 165.36 311.58 197.94 219.16 197.94 197.48 165.36"/>
+  <polygon class="cls-4" points="308.62 201.28 265.37 271.16 222.12 201.28 308.62 201.28"/>
+  <text class="cls-2" transform="translate(219.13 107.95)"><tspan x="0" y="0">Prepare for the unknown</tspan></text>
+  <text class="cls-2" transform="translate(249.22 168.03)"><tspan class="cls-3" x="0" y="0">R</tspan><tspan x="5.06" y="0">espond</tspan></text>
+  <text class="cls-2" transform="translate(248.79 217.81)"><tspan class="cls-3" x="0" y="0">R</tspan><tspan x="5.06" y="0">ebound </tspan></text>
+  <text class="cls-2" transform="translate(258.52 226.05)"><tspan x="0" y="0">and </tspan></text>
+  <text class="cls-2" transform="translate(251.54 234.29)"><tspan x="0" y="0">ﬂourish</tspan></text>
+  <polygon class="cls-6" points="170.95 21.99 170.95 81.5 229.46 58.56 229.46 21.99 170.95 21.99"/>
+  <polygon class="cls-6" points="305.27 21.76 305.27 81.01 363.79 58.92 363.79 21.76 305.27 21.76"/>
+  <polygon class="cls-6" points="238.11 21.99 238.11 81.5 296.62 58.56 296.62 21.99 238.11 21.99"/>
+  <text class="cls-2" transform="translate(309.13 40.45)"><tspan x="0" y="0">Infrastructure</tspan></text>
+  <text class="cls-2" transform="translate(246.34 40.45)"><tspan x="0" y="0">Institutions</tspan></text>
+  <text class="cls-2" transform="translate(178.02 40.45)"><tspan x="0" y="0">Instruments</tspan></text>
+</svg>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 346.5 346.88">
+  <defs>
+    <style>
+      .cls-1 {
+        mask: url(#mask);
+      }
+
+      .cls-2 {
+        stroke: #9e9fa6;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: #abdde3;
+        stroke-width: .77px;
+      }
+
+      .cls-5, .cls-4 {
+        stroke: rgba(0, 152, 165, .1);
+      }
+
+      .cls-6 {
+        fill: #0098a5;
+        stroke: #fff;
+        stroke-width: 1.54px;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-width: 5px;
+      }
+
+      .cls-8 {
+        fill: #f7f7f7;
+      }
+
+      .cls-4 {
+        stroke-width: .38px;
+      }
+    </style>
+    <mask id="mask" x="172.87" y="0" width="159.76" height="174.22" maskUnits="userSpaceOnUse">
+      <g id="path-14-inside-2_3937_741" data-name="path-14-inside-2 3937 741">
+        <path class="cls-7" d="M173.25.38c33.75,0,66.76,9.86,94.98,28.36,28.22,18.5,50.43,44.84,63.89,75.79l-158.87,69.11V.38Z"/>
+      </g>
+    </mask>
+  </defs>
+  <circle class="cls-8" cx="173.25" cy="173.63" r="173.25"/>
+  <circle class="cls-4" cx="173.25" cy="173.63" r="173.06"/>
+  <g class="cls-1">
+    <path class="cls-5" d="M173.25.38c33.75,0,66.76,9.86,94.98,28.36,28.22,18.5,50.43,44.84,63.89,75.79l-158.87,69.11V.38Z"/>
+  </g>
+  <line class="cls-2" x1="174" y1="10.88" x2="174" y2="30.88"/>
+  <circle class="cls-6" cx="173.25" cy="173.63" r="9.02"/>
+  <line class="cls-3" x1="172.28" y1="170.66" x2="244.54" y2="60.6"/>
+  <line class="cls-3" x1="173.74" y1="168.49" x2="173.51" y2="86.39"/>
+  <circle class="cls-6" cx="173.25" cy="173.63" r="9.02"/>
+  <line class="cls-2" x1="174" y1="316.88" x2="174" y2="336.88"/>
+  <line class="cls-2" x1="316" y1="172.88" x2="336" y2="172.88"/>
+  <line class="cls-2" x1="10" y1="172.88" x2="30" y2="172.88"/>
+</svg>

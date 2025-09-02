@@ -1,0 +1,22 @@
+country,iso_3_code,Substitution,State Density,State Discontinuity
+Argentina,ARG,Low,0.759,0.021
+Brazil,BRA,Low,0.570,0.096
+Chile,CHL,Low,0.666,0.072
+Colombia,COL,Low,0.581,0.170
+Mexico,MEX,Low,0.767,0.052
+Peru,PER,Low,0.670,0.063
+Dominican Republic,DOM,Low,0.599,0.050
+Argentina,ARG,Medium,0.784,0.022
+Brazil,BRA,Medium,0.632,0.072
+Chile,CHL,Medium,0.696,0.057
+Colombia,COL,Medium,0.621,0.141
+Mexico,MEX,Medium,0.780,0.047
+Peru,PER,Medium,0.722,0.048
+Dominican Republic,DOM,Medium,0.633,0.043
+Argentina,ARG,High,0.800,0.021
+Brazil,BRA,High,0.675,0.058
+Chile,CHL,High,0.721,0.046
+Colombia,COL,High,0.654,0.119
+Mexico,MEX,High,0.792,0.044
+Peru,PER,High,0.758,0.040
+Dominican Republic,DOM,High,0.659,0.039

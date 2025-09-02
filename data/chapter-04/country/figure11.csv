@@ -1,0 +1,189 @@
+country,iso_code_3,year,category,Share (%) of people who believe a coup is justified in cases of high levels of crime,input1,input2
+Argentina,ARG,2023,Adults (36-65),38.76698224,Similar to,more
+Argentina,ARG,2023,Older Adults (66+),37.37373737,Similar to,more
+Argentina,ARG,2023,Young Adults (26-35),37.26708075,Similar to,more
+Argentina,ARG,2023,Youth (18-25),40.39735099,Similar to,more
+Belize,BLZ,2023,Adults (36-65),43.7521588,Similar to,more
+Belize,BLZ,2023,Older Adults (66+),26.53061224,Similar to,more
+Belize,BLZ,2023,Young Adults (26-35),46.59685864,Similar to,more
+Belize,BLZ,2023,Youth (18-25),59.13043478,Similar to,more
+Bolivia,BOL,2023,Adults (36-65),38.96747906,Similar to,more
+Bolivia,BOL,2023,Older Adults (66+),35.48387097,Similar to,more
+Bolivia,BOL,2023,Young Adults (26-35),48.20512821,Similar to,more
+Bolivia,BOL,2023,Youth (18-25),52.5,Similar to,more
+Brazil,BRA,2023,Adults (36-65),32.07071052,Different from,less
+Brazil,BRA,2023,Older Adults (66+),26.71358826,Different from,less
+Brazil,BRA,2023,Young Adults (26-35),39.11488826,Different from,less
+Brazil,BRA,2023,Youth (18-25),36.70111408,Different from,less
+Chile,CHL,2023,Adults (36-65),43.74843149,Different from,less
+Chile,CHL,2023,Older Adults (66+),38.46153846,Different from,less
+Chile,CHL,2023,Young Adults (26-35),49.76525822,Different from,less
+Chile,CHL,2023,Youth (18-25),36.42384106,Different from,less
+Colombia,COL,2014,Adults (36-65),28.14947578,,
+Colombia,COL,2016,Adults (36-65),29.33806532,,
+Colombia,COL,2018,Adults (36-65),18.50223703,,
+Colombia,COL,2023,Adults (36-65),34.48560663,Different from,less
+Colombia,COL,2014,Older Adults (66+),34.04255319,,
+Colombia,COL,2016,Older Adults (66+),28,,
+Colombia,COL,2018,Older Adults (66+),29.41176471,,
+Colombia,COL,2023,Older Adults (66+),43.47826087,Different from,less
+Colombia,COL,2014,Young Adults (26-35),35.54987212,,
+Colombia,COL,2016,Young Adults (26-35),34.69879518,,
+Colombia,COL,2018,Young Adults (26-35),31.92488263,,
+Colombia,COL,2023,Young Adults (26-35),31.77083333,Different from,less
+Colombia,COL,2014,Youth (18-25),36.50793651,,
+Colombia,COL,2016,Youth (18-25),39.33333333,,
+Colombia,COL,2018,Youth (18-25),30.99415205,,
+Colombia,COL,2023,Youth (18-25),35.03649635,Different from,less
+Costa Rica,CRI,2023,Adults (36-65),33.77139114,Different from,less
+Costa Rica,CRI,2023,Older Adults (66+),19.04761905,Different from,less
+Costa Rica,CRI,2023,Young Adults (26-35),44.50549451,Different from,less
+Costa Rica,CRI,2023,Youth (18-25),43.67088608,Different from,less
+Dominican Republic,DOM,2014,Adults (36-65),13.5375239,,
+Dominican Republic,DOM,2016,Adults (36-65),25.14403626,,
+Dominican Republic,DOM,2018,Adults (36-65),23.58435195,,
+Dominican Republic,DOM,2023,Adults (36-65),27.2027972,Similar to,more
+Dominican Republic,DOM,2014,Older Adults (66+),6.25,,
+Dominican Republic,DOM,2016,Older Adults (66+),19.6969697,,
+Dominican Republic,DOM,2018,Older Adults (66+),8.571428571,,
+Dominican Republic,DOM,2023,Older Adults (66+),25,Similar to,more
+Dominican Republic,DOM,2014,Young Adults (26-35),24.04692082,,
+Dominican Republic,DOM,2016,Young Adults (26-35),44.84848485,,
+Dominican Republic,DOM,2018,Young Adults (26-35),46.75324675,,
+Dominican Republic,DOM,2023,Young Adults (26-35),40.09661836,Similar to,more
+Dominican Republic,DOM,2014,Youth (18-25),29.375,,
+Dominican Republic,DOM,2016,Youth (18-25),49.41860465,,
+Dominican Republic,DOM,2018,Youth (18-25),52.63157895,,
+Dominican Republic,DOM,2023,Youth (18-25),44.31137725,Similar to,more
+Ecuador,ECU,2014,Adults (36-65),27.49405687,,
+Ecuador,ECU,2016,Adults (36-65),38.29489786,,
+Ecuador,ECU,2018,Adults (36-65),43.11119839,,
+Ecuador,ECU,2023,Adults (36-65),52.42713862,Similar to,more
+Ecuador,ECU,2014,Older Adults (66+),22.07792208,,
+Ecuador,ECU,2016,Older Adults (66+),38.66666667,,
+Ecuador,ECU,2018,Older Adults (66+),28.07017544,,
+Ecuador,ECU,2023,Older Adults (66+),41.05183698,Similar to,more
+Ecuador,ECU,2014,Young Adults (26-35),30.65902579,,
+Ecuador,ECU,2016,Young Adults (26-35),37.80487805,,
+Ecuador,ECU,2018,Young Adults (26-35),53.8961039,,
+Ecuador,ECU,2023,Young Adults (26-35),60.89329285,Similar to,more
+Ecuador,ECU,2014,Youth (18-25),29.74910394,,
+Ecuador,ECU,2016,Youth (18-25),43.31797235,,
+Ecuador,ECU,2018,Youth (18-25),61.88340807,,
+Ecuador,ECU,2023,Youth (18-25),66.10125563,Similar to,more
+El Salvador,SLV,2014,Adults (36-65),32.96583894,,
+El Salvador,SLV,2016,Adults (36-65),29.00952247,,
+El Salvador,SLV,2018,Adults (36-65),27.50628223,,
+El Salvador,SLV,2023,Adults (36-65),20.72685185,Similar to,more
+El Salvador,SLV,2014,Older Adults (66+),28.57142857,,
+El Salvador,SLV,2016,Older Adults (66+),23.1884058,,
+El Salvador,SLV,2018,Older Adults (66+),18.03278689,,
+El Salvador,SLV,2023,Older Adults (66+),20.33898305,Similar to,more
+El Salvador,SLV,2014,Young Adults (26-35),37.66233766,,
+El Salvador,SLV,2016,Young Adults (26-35),43.51145038,,
+El Salvador,SLV,2018,Young Adults (26-35),36.87943262,,
+El Salvador,SLV,2023,Young Adults (26-35),29.31034483,Similar to,more
+El Salvador,SLV,2014,Youth (18-25),36.28808864,,
+El Salvador,SLV,2016,Youth (18-25),39.22651934,,
+El Salvador,SLV,2018,Youth (18-25),35.55555556,,
+El Salvador,SLV,2023,Youth (18-25),36.45320197,Similar to,more
+Guatemala,GTM,2014,Adults (36-65),34.39256399,,
+Guatemala,GTM,2016,Adults (36-65),46.41654585,,
+Guatemala,GTM,2018,Adults (36-65),42.94329865,,
+Guatemala,GTM,2023,Adults (36-65),44.75923205,Different from,less
+Guatemala,GTM,2014,Older Adults (66+),34.31372549,,
+Guatemala,GTM,2016,Older Adults (66+),47.91666667,,
+Guatemala,GTM,2018,Older Adults (66+),60.97560976,,
+Guatemala,GTM,2023,Older Adults (66+),41.17647059,Different from,less
+Guatemala,GTM,2014,Young Adults (26-35),34.92063492,,
+Guatemala,GTM,2016,Young Adults (26-35),55.29411765,,
+Guatemala,GTM,2018,Young Adults (26-35),53.08641975,,
+Guatemala,GTM,2023,Young Adults (26-35),52.15053763,Different from,less
+Guatemala,GTM,2014,Youth (18-25),40.68965517,,
+Guatemala,GTM,2016,Youth (18-25),49.15254237,,
+Guatemala,GTM,2018,Youth (18-25),54.63917526,,
+Guatemala,GTM,2023,Youth (18-25),45.09803922,Different from,less
+Guyana,GUY,2014,Adults (36-65),46.94650316,,
+Guyana,GUY,2014,Older Adults (66+),37.03703704,,
+Guyana,GUY,2014,Young Adults (26-35),50,,
+Guyana,GUY,2014,Youth (18-25),54.95495495,,
+Haiti,HTI,2023,Adults (36-65),62.16114055,Similar to,more
+Haiti,HTI,2023,Older Adults (66+),51.30469813,Similar to,more
+Haiti,HTI,2023,Young Adults (26-35),70.89335536,Similar to,more
+Haiti,HTI,2023,Youth (18-25),71.44985393,Similar to,more
+Honduras,HND,2023,Adults (36-65),38.90593047,Similar to,more
+Honduras,HND,2023,Older Adults (66+),32.72727273,Similar to,more
+Honduras,HND,2023,Young Adults (26-35),46.875,Similar to,more
+Honduras,HND,2023,Youth (18-25),56.07476636,Similar to,more
+Jamaica,JAM,2023,Adults (36-65),49.36016558,Different from,less
+Jamaica,JAM,2023,Older Adults (66+),31.34328358,Different from,less
+Jamaica,JAM,2023,Young Adults (26-35),58.28571429,Different from,less
+Jamaica,JAM,2023,Youth (18-25),46.09929078,Different from,less
+Mexico,MEX,2014,Adults (36-65),46.31030288,,
+Mexico,MEX,2016,Adults (36-65),41.86486826,,
+Mexico,MEX,2018,Adults (36-65),42.65905313,,
+Mexico,MEX,2023,Adults (36-65),42.06848358,Similar to,more
+Mexico,MEX,2014,Older Adults (66+),44.73684211,,
+Mexico,MEX,2016,Older Adults (66+),36.92307692,,
+Mexico,MEX,2018,Older Adults (66+),29.21348315,,
+Mexico,MEX,2023,Older Adults (66+),39.50617284,Similar to,more
+Mexico,MEX,2014,Young Adults (26-35),47.04225352,,
+Mexico,MEX,2016,Young Adults (26-35),52.38095238,,
+Mexico,MEX,2018,Young Adults (26-35),45.56962025,,
+Mexico,MEX,2023,Young Adults (26-35),40.83769634,Similar to,more
+Mexico,MEX,2014,Youth (18-25),50.1754386,,
+Mexico,MEX,2016,Youth (18-25),57.5,,
+Mexico,MEX,2018,Youth (18-25),53.57142857,,
+Mexico,MEX,2023,Youth (18-25),47.48201439,Similar to,more
+Nicaragua,NIC,2023,Adults (36-65),36.27565636,Different from,less
+Nicaragua,NIC,2023,Older Adults (66+),16.6025916,Different from,less
+Nicaragua,NIC,2023,Young Adults (26-35),55.51619982,Different from,less
+Nicaragua,NIC,2023,Youth (18-25),46.00141106,Different from,less
+Panama,PAN,2023,Adults (36-65),34.36833963,Similar to,more
+Panama,PAN,2023,Older Adults (66+),22.89156627,Similar to,more
+Panama,PAN,2023,Young Adults (26-35),54.08805031,Similar to,more
+Panama,PAN,2023,Youth (18-25),55.49132948,Similar to,more
+Paraguay,PRY,2014,Adults (36-65),45.24787054,,
+Paraguay,PRY,2016,Adults (36-65),39.73073198,,
+Paraguay,PRY,2018,Adults (36-65),35.4753989,,
+Paraguay,PRY,2023,Adults (36-65),40.31857655,Similar to,more
+Paraguay,PRY,2014,Older Adults (66+),16.66666667,,
+Paraguay,PRY,2016,Older Adults (66+),36.73469388,,
+Paraguay,PRY,2018,Older Adults (66+),26.31578947,,
+Paraguay,PRY,2023,Older Adults (66+),29.57746479,Similar to,more
+Paraguay,PRY,2014,Young Adults (26-35),51.72413793,,
+Paraguay,PRY,2016,Young Adults (26-35),45.94594595,,
+Paraguay,PRY,2018,Young Adults (26-35),46.01226994,,
+Paraguay,PRY,2023,Young Adults (26-35),48.125,Similar to,more
+Paraguay,PRY,2014,Youth (18-25),63.53276353,,
+Paraguay,PRY,2016,Youth (18-25),62.98701299,,
+Paraguay,PRY,2018,Youth (18-25),54.16666667,,
+Paraguay,PRY,2023,Youth (18-25),56.28742515,Similar to,more
+Peru,PER,2014,Adults (36-65),42.37980216,,
+Peru,PER,2016,Adults (36-65),50.24644835,,
+Peru,PER,2018,Adults (36-65),49.20775814,,
+Peru,PER,2023,Adults (36-65),52.14629212,Similar to,more
+Peru,PER,2014,Older Adults (66+),42.73504274,,
+Peru,PER,2016,Older Adults (66+),46.36423811,,
+Peru,PER,2018,Older Adults (66+),33.33333333,,
+Peru,PER,2023,Older Adults (66+),35.55555556,Similar to,more
+Peru,PER,2014,Young Adults (26-35),47.36842105,,
+Peru,PER,2016,Young Adults (26-35),56.41053163,,
+Peru,PER,2018,Young Adults (26-35),57.7540107,,
+Peru,PER,2023,Young Adults (26-35),55.4973822,Similar to,more
+Peru,PER,2014,Youth (18-25),45.24590164,,
+Peru,PER,2016,Youth (18-25),64.21845868,,
+Peru,PER,2018,Youth (18-25),56.14973262,,
+Peru,PER,2023,Youth (18-25),56.79012346,Similar to,more
+Suriname,SUR,2023,Adults (36-65),31.14487613,Similar to,more
+Suriname,SUR,2023,Older Adults (66+),29.50819672,Similar to,more
+Suriname,SUR,2023,Young Adults (26-35),42.70833333,Similar to,more
+Suriname,SUR,2023,Youth (18-25),61.49068323,Similar to,more
+Trinidad and Tobago,TTO,2014,Adults (36-65),22.35784254,,
+Trinidad and Tobago,TTO,2014,Older Adults (66+),19.68792265,,
+Trinidad and Tobago,TTO,2014,Young Adults (26-35),23.11238355,,
+Trinidad and Tobago,TTO,2014,Youth (18-25),21.59652424,,
+Uruguay,URY,2023,Adults (36-65),16.43312226,Different from,less
+Uruguay,URY,2023,Older Adults (66+),13.01369863,Different from,less
+Uruguay,URY,2023,Young Adults (26-35),31.81818182,Different from,less
+Uruguay,URY,2023,Youth (18-25),24.24242424,Different from,less
