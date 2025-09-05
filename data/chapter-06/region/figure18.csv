@@ -1,11 +1,11 @@
 iso_code_3,Social registry,Social Registries (%),Rank,Input1
-CRI,SINIRUBE,86%,1,the highest coverage rate in the region
-COL,SISBEN,78%,2,the second highest coverage rate in the region
-CHL,RSH,72%,3,the third highest coverage rate in the region
-DOM,SIUBEN,59%,4,a high coverage rate compared to the rest of the region
-BRA,Cadastro Único,36%,5,a medium coverage rate compared to the rest of the region
-HND,RUP,36%,6,medium coverage rate compared to the rest of the region
-BOL,PREGIPS,29%,7,medium coverage rate compared to the rest of the region
-SLV,RUP,24%,8,one of the lowest coverage rates in the region
-ECU,Registro Social,22%,9,one of the lowest coverage rates in the region
-PRY,Ficha Social,19%,10,the lowest coverage rate in the region
+CRI,SINIRUBE,86,1,the highest coverage rate in the region
+COL,SISBEN,78,2,the second highest coverage rate in the region
+CHL,RSH,72,3,the third highest coverage rate in the region
+DOM,SIUBEN,59,4,a high coverage rate compared to the rest of the region
+BRA,Cadastro Único,36,5,a medium coverage rate compared to the rest of the region
+HND,RUP,36,6,medium coverage rate compared to the rest of the region
+BOL,PREGIPS,29,7,medium coverage rate compared to the rest of the region
+SLV,RUP,24,8,one of the lowest coverage rates in the region
+ECU,Registro Social,22,9,one of the lowest coverage rates in the region
+PRY,Ficha Social,19,10,the lowest coverage rate in the region
