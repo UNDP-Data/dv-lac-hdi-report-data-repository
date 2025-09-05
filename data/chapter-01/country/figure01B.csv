@@ -1,5 +1,4 @@
 country,iso_code_3,year,HDI growth (%),period,Period average growth
-Antigua and Barbuda,ATG,1990,,1990s,
 Antigua and Barbuda,ATG,1991,,1990s,
 Antigua and Barbuda,ATG,1992,,1990s,
 Antigua and Barbuda,ATG,1993,,1990s,
@@ -33,7 +32,6 @@ Antigua and Barbuda,ATG,2020,-1.2926,2020s,0
 Antigua and Barbuda,ATG,2021,0.35714,2020s,0
 Antigua and Barbuda,ATG,2022,0.59312,2020s,0
 Antigua and Barbuda,ATG,2023,0.35377,2020s,0
-Argentina,ARG,1990,,1990s,0.74
 Argentina,ARG,1991,0.81855,1990s,0.74
 Argentina,ARG,1992,0.54127,1990s,0.74
 Argentina,ARG,1993,0.67295,1990s,0.74
@@ -67,7 +65,6 @@ Argentina,ARG,2020,-1.16144,2020s,0.12
 Argentina,ARG,2021,-0.47004,2020s,0.12
 Argentina,ARG,2022,1.2987,2020s,0.12
 Argentina,ARG,2023,0.81585,2020s,0.12
-Bahamas,BHS,1990,,1990s,0.3
 Bahamas,BHS,1991,0,1990s,0.3
 Bahamas,BHS,1992,0,1990s,0.3
 Bahamas,BHS,1993,0.13123,1990s,0.3
@@ -101,7 +98,6 @@ Bahamas,BHS,2020,-0.375,2020s,0.63
 Bahamas,BHS,2021,-0.37641,2020s,0.63
 Bahamas,BHS,2022,3.02267,2020s,0.63
 Bahamas,BHS,2023,0.2445,2020s,0.63
-Barbados,BRB,1990,,1990s,0.39
 Barbados,BRB,1991,0.27397,1990s,0.39
 Barbados,BRB,1992,0,1990s,0.39
 Barbados,BRB,1993,0.40984,1990s,0.39
@@ -135,7 +131,6 @@ Barbados,BRB,2020,-0.61881,2020s,0.09
 Barbados,BRB,2021,0,2020s,0.09
 Barbados,BRB,2022,0.49813,2020s,0.09
 Barbados,BRB,2023,0.49566,2020s,0.09
-Belize,BLZ,1990,,1990s,0.82
 Belize,BLZ,1991,1.45867,1990s,0.82
 Belize,BLZ,1992,1.27796,1990s,0.82
 Belize,BLZ,1993,0.94637,1990s,0.82
@@ -169,7 +164,6 @@ Belize,BLZ,2020,-1.65517,2020s,-0.13
 Belize,BLZ,2021,0,2020s,-0.13
 Belize,BLZ,2022,0.56101,2020s,-0.13
 Belize,BLZ,2023,0.55788,2020s,-0.13
-Bolivia,BOL,1990,,1990s,1.37
 Bolivia,BOL,1991,1.63043,1990s,1.37
 Bolivia,BOL,1992,1.24777,1990s,1.37
 Bolivia,BOL,1993,1.58451,1990s,1.37
@@ -203,7 +197,6 @@ Bolivia,BOL,2020,-4.25824,2020s,0.22
 Bolivia,BOL,2021,-0.57389,2020s,0.22
 Bolivia,BOL,2022,4.9062,2020s,0.22
 Bolivia,BOL,2023,0.82531,2020s,0.22
-Brazil,BRA,1990,,1990s,0.72
 Brazil,BRA,1991,0.62402,1990s,0.72
 Brazil,BRA,1992,0.46512,1990s,0.72
 Brazil,BRA,1993,0.92593,1990s,0.72
@@ -237,7 +230,6 @@ Brazil,BRA,2020,-0.7732,2020s,0.32
 Brazil,BRA,2021,-0.25974,2020s,0.32
 Brazil,BRA,2022,1.5625,2020s,0.32
 Brazil,BRA,2023,0.76923,2020s,0.32
-Chile,CHL,1990,,1990s,0.72
 Chile,CHL,1991,0.69638,1990s,0.72
 Chile,CHL,1992,0.96819,1990s,0.72
 Chile,CHL,1993,-0.68493,1990s,0.72
@@ -271,7 +263,6 @@ Chile,CHL,2020,-1.26874,2020s,0.32
 Chile,CHL,2021,1.0514,2020s,0.32
 Chile,CHL,2022,0.46243,2020s,0.32
 Chile,CHL,2023,1.03567,2020s,0.32
-Colombia,COL,1990,,1990s,0.86
 Colombia,COL,1991,1.1236,1990s,0.86
 Colombia,COL,1992,1.42857,1990s,0.86
 Colombia,COL,1993,0.93897,1990s,0.86
@@ -305,7 +296,6 @@ Colombia,COL,2020,-1.6731,2020s,0.36
 Colombia,COL,2021,-0.26178,2020s,0.36
 Colombia,COL,2022,2.62467,2020s,0.36
 Colombia,COL,2023,0.76726,2020s,0.36
-Costa Rica,CRI,1990,,1990s,0.64
 Costa Rica,CRI,1991,0.73855,1990s,0.64
 Costa Rica,CRI,1992,1.31965,1990s,0.64
 Costa Rica,CRI,1993,0.72359,1990s,0.64
@@ -339,7 +329,6 @@ Costa Rica,CRI,2020,-0.24361,2020s,0.37
 Costa Rica,CRI,2021,-0.2442,2020s,0.37
 Costa Rica,CRI,2022,0.73439,2020s,0.37
 Costa Rica,CRI,2023,1.21507,2020s,0.37
-Cuba,CUB,1990,,1990s,0.05
 Cuba,CUB,1991,-0.87336,1990s,0.05
 Cuba,CUB,1992,-1.0279,1990s,0.05
 Cuba,CUB,1993,-1.33531,1990s,0.05
@@ -373,7 +362,6 @@ Cuba,CUB,2020,-0.91027,2020s,-0.21
 Cuba,CUB,2021,-2.23097,2020s,-0.21
 Cuba,CUB,2022,2.55034,2020s,-0.21
 Cuba,CUB,2023,-0.26178,2020s,-0.21
-Dominica,DMA,1990,,1990s,
 Dominica,DMA,1991,,1990s,
 Dominica,DMA,1992,,1990s,
 Dominica,DMA,1993,,1990s,
@@ -407,7 +395,6 @@ Dominica,DMA,2020,-0.65963,2020s,0.1
 Dominica,DMA,2021,-0.53121,2020s,0.1
 Dominica,DMA,2022,1.33511,2020s,0.1
 Dominica,DMA,2023,0.2635,2020s,0.1
-Dominican Republic,DOM,1990,,1990s,1.14
 Dominican Republic,DOM,1991,0.8489,1990s,1.14
 Dominican Republic,DOM,1992,1.6835,1990s,1.14
 Dominican Republic,DOM,1993,1.15894,1990s,1.14
@@ -441,7 +428,6 @@ Dominican Republic,DOM,2020,-0.51881,2020s,0.17
 Dominican Republic,DOM,2021,-0.65189,2020s,0.17
 Dominican Republic,DOM,2022,2.09974,2020s,0.17
 Dominican Republic,DOM,2023,-0.25707,2020s,0.17
-Ecuador,ECU,1990,,1990s,0.61
 Ecuador,ECU,1991,0.4644,1990s,0.61
 Ecuador,ECU,1992,0.77042,1990s,0.61
 Ecuador,ECU,1993,0.91743,1990s,0.61
@@ -475,7 +461,6 @@ Ecuador,ECU,2020,-3.26797,2020s,0.42
 Ecuador,ECU,2021,1.75676,2020s,0.42
 Ecuador,ECU,2022,2.65604,2020s,0.42
 Ecuador,ECU,2023,0.51746,2020s,0.42
-El Salvador,SLV,1990,,1990s,1.5
 El Salvador,SLV,1991,1.14723,1990s,1.5
 El Salvador,SLV,1992,1.70132,1990s,1.5
 El Salvador,SLV,1993,1.85874,1990s,1.5
@@ -509,7 +494,6 @@ El Salvador,SLV,2020,-1.49254,2020s,0.3
 El Salvador,SLV,2021,0.45455,2020s,0.3
 El Salvador,SLV,2022,1.65913,2020s,0.3
 El Salvador,SLV,2023,0.59347,2020s,0.3
-Grenada,GRD,1990,,1990s,
 Grenada,GRD,1991,,1990s,
 Grenada,GRD,1992,,1990s,
 Grenada,GRD,1993,,1990s,
@@ -543,7 +527,6 @@ Grenada,GRD,2020,-0.8872,2020s,0.07
 Grenada,GRD,2021,0,2020s,0.07
 Grenada,GRD,2022,0.89514,2020s,0.07
 Grenada,GRD,2023,0.25349,2020s,0.07
-Guatemala,GTM,1990,,1990s,1.21
 Guatemala,GTM,1991,0.8016,1990s,1.21
 Guatemala,GTM,1992,0.59642,1990s,1.21
 Guatemala,GTM,1993,0.79051,1990s,1.21
@@ -577,7 +560,6 @@ Guatemala,GTM,2020,-1.22511,2020s,0.35
 Guatemala,GTM,2021,-0.93023,2020s,0.35
 Guatemala,GTM,2022,2.50391,2020s,0.35
 Guatemala,GTM,2023,1.0687,2020s,0.35
-Guyana,GUY,1990,,1990s,1.45
 Guyana,GUY,1991,-0.60729,1990s,1.45
 Guyana,GUY,1992,3.25866,1990s,1.45
 Guyana,GUY,1993,2.76134,1990s,1.45
@@ -611,7 +593,6 @@ Guyana,GUY,2020,1.83357,2020s,2.33
 Guyana,GUY,2021,-1.24654,2020s,2.33
 Guyana,GUY,2022,7.01262,2020s,2.33
 Guyana,GUY,2023,1.7038,2020s,2.33
-Haiti,HTI,1990,,1990s,0.75
 Haiti,HTI,1991,0.65076,1990s,0.75
 Haiti,HTI,1992,0.43103,1990s,0.75
 Haiti,HTI,1993,0.21459,1990s,0.75
@@ -645,7 +626,6 @@ Haiti,HTI,2020,-0.89286,2020s,-0.27
 Haiti,HTI,2021,-1.26126,2020s,-0.27
 Haiti,HTI,2022,0.72993,2020s,-0.27
 Haiti,HTI,2023,0.36232,2020s,-0.27
-Honduras,HND,1990,,1990s,0.77
 Honduras,HND,1991,0.5814,1990s,0.77
 Honduras,HND,1992,0.77071,1990s,0.77
 Honduras,HND,1993,1.14723,1990s,0.77
@@ -679,7 +659,6 @@ Honduras,HND,2020,-1.10759,2020s,0.52
 Honduras,HND,2021,0.48,2020s,0.52
 Honduras,HND,2022,2.38854,2020s,0.52
 Honduras,HND,2023,0.31104,2020s,0.52
-Jamaica,JAM,1990,,1990s,0
 Jamaica,JAM,1991,0,1990s,0
 Jamaica,JAM,1992,0.30211,1990s,0
 Jamaica,JAM,1993,0,1990s,0
@@ -713,7 +692,6 @@ Jamaica,JAM,2020,-0.69832,2020s,0.15
 Jamaica,JAM,2021,-1.12518,2020s,0.15
 Jamaica,JAM,2022,2.13371,2020s,0.15
 Jamaica,JAM,2023,0.27855,2020s,0.15
-Mexico,MEX,1990,,1990s,0.62
 Mexico,MEX,1991,0.2994,1990s,0.62
 Mexico,MEX,1992,0.29851,1990s,0.62
 Mexico,MEX,1993,0.44643,1990s,0.62
@@ -747,7 +725,6 @@ Mexico,MEX,2020,-3.17259,2020s,0.06
 Mexico,MEX,2021,-0.26212,2020s,0.06
 Mexico,MEX,2022,2.89093,2020s,0.06
 Mexico,MEX,2023,0.76628,2020s,0.06
-Nicaragua,NIC,1990,,1990s,1.43
 Nicaragua,NIC,1991,2.13592,1990s,1.43
 Nicaragua,NIC,1992,0.95057,1990s,1.43
 Nicaragua,NIC,1993,0.56497,1990s,1.43
@@ -781,7 +758,6 @@ Nicaragua,NIC,2020,-2.02899,2020s,0.59
 Nicaragua,NIC,2021,0.88757,2020s,0.59
 Nicaragua,NIC,2022,2.78592,2020s,0.59
 Nicaragua,NIC,2023,0.71327,2020s,0.59
-Panama,PAN,1990,,1990s,0.64
 Panama,PAN,1991,0.29762,1990s,0.64
 Panama,PAN,1992,0.89021,1990s,0.64
 Panama,PAN,1993,0.88235,1990s,0.64
@@ -815,7 +791,6 @@ Panama,PAN,2020,-1.94175,2020s,0.46
 Panama,PAN,2021,1.36139,2020s,0.46
 Panama,PAN,2022,1.9536,2020s,0.46
 Panama,PAN,2023,0.47904,2020s,0.46
-Paraguay,PRY,1990,,1990s,1
 Paraguay,PRY,1991,0.98847,1990s,1
 Paraguay,PRY,1992,0.97879,1990s,1
 Paraguay,PRY,1993,1.13086,1990s,1
@@ -849,7 +824,6 @@ Paraguay,PRY,2020,-0.66934,2020s,0.32
 Paraguay,PRY,2021,-2.56065,2020s,0.32
 Paraguay,PRY,2022,3.3195,2020s,0.32
 Paraguay,PRY,2023,1.20482,2020s,0.32
-Peru,PER,1990,,1990s,0.94
 Peru,PER,1991,0.48,1990s,0.94
 Peru,PER,1992,0.15924,1990s,0.94
 Peru,PER,1993,0.63593,1990s,0.94
@@ -883,7 +857,6 @@ Peru,PER,2020,-1.91327,2020s,0.34
 Peru,PER,2021,-0.6502,2020s,0.34
 Peru,PER,2022,3.40314,2020s,0.34
 Peru,PER,2023,0.50633,2020s,0.34
-Saint Kitts and Nevis,KNA,1990,,1990s,
 Saint Kitts and Nevis,KNA,1991,,1990s,
 Saint Kitts and Nevis,KNA,1992,,1990s,
 Saint Kitts and Nevis,KNA,1993,,1990s,
@@ -917,7 +890,6 @@ Saint Kitts and Nevis,KNA,2020,-1.31108,2020s,0.04
 Saint Kitts and Nevis,KNA,2021,-1.20773,2020s,0.04
 Saint Kitts and Nevis,KNA,2022,1.34474,2020s,0.04
 Saint Kitts and Nevis,KNA,2023,1.3269,2020s,0.04
-Saint Lucia,LCA,1990,,1990s,0.4
 Saint Lucia,LCA,1991,0.29283,1990s,0.4
 Saint Lucia,LCA,1992,1.0219,1990s,0.4
 Saint Lucia,LCA,1993,0.28902,1990s,0.4
@@ -951,7 +923,6 @@ Saint Lucia,LCA,2020,-1.47651,2020s,0.12
 Saint Lucia,LCA,2021,-1.3624,2020s,0.12
 Saint Lucia,LCA,2022,3.1768,2020s,0.12
 Saint Lucia,LCA,2023,0.13387,2020s,0.12
-Saint Vincent and the Grenadines,VCT,1990,,1990s,
 Saint Vincent and the Grenadines,VCT,1991,,1990s,
 Saint Vincent and the Grenadines,VCT,1992,,1990s,
 Saint Vincent and the Grenadines,VCT,1993,,1990s,
@@ -985,7 +956,6 @@ Saint Vincent and the Grenadines,VCT,2020,-0.76239,2020s,0.35
 Saint Vincent and the Grenadines,VCT,2021,0,2020s,0.35
 Saint Vincent and the Grenadines,VCT,2022,1.66453,2020s,0.35
 Saint Vincent and the Grenadines,VCT,2023,0.50378,2020s,0.35
-Suriname,SUR,1990,,1990s,
 Suriname,SUR,1991,,1990s,
 Suriname,SUR,1992,,1990s,
 Suriname,SUR,1993,,1990s,
@@ -1019,7 +989,6 @@ Suriname,SUR,2020,-0.83333,2020s,0.09
 Suriname,SUR,2021,-2.38095,2020s,0.09
 Suriname,SUR,2022,3.15638,2020s,0.09
 Suriname,SUR,2023,0.41725,2020s,0.09
-Trinidad and Tobago,TTO,1990,,1990s,0.77
 Trinidad and Tobago,TTO,1991,0.60514,1990s,0.77
 Trinidad and Tobago,TTO,1992,0,1990s,0.77
 Trinidad and Tobago,TTO,1993,0.30075,1990s,0.77
@@ -1053,7 +1022,6 @@ Trinidad and Tobago,TTO,2020,-0.62112,2020s,0.06
 Trinidad and Tobago,TTO,2021,-0.5,2020s,0.06
 Trinidad and Tobago,TTO,2022,1.13065,2020s,0.06
 Trinidad and Tobago,TTO,2023,0.24845,2020s,0.06
-Uruguay,URY,1990,,1990s,0.71
 Uruguay,URY,1991,0.56101,1990s,0.71
 Uruguay,URY,1992,0.27894,1990s,0.71
 Uruguay,URY,1993,0.41725,1990s,0.71
@@ -1087,7 +1055,6 @@ Uruguay,URY,2020,0.84337,2020s,0.95
 Uruguay,URY,2021,0,2020s,0.95
 Uruguay,URY,2022,1.79211,2020s,0.95
 Uruguay,URY,2023,1.17371,2020s,0.95
-"Venezuela, Bolivarian Republic of",VEN,1990,,1990s,0.66
 "Venezuela, Bolivarian Republic of",VEN,1991,1.67173,1990s,0.66
 "Venezuela, Bolivarian Republic of",VEN,1992,1.04634,1990s,0.66
 "Venezuela, Bolivarian Republic of",VEN,1993,0.59172,1990s,0.66
@@ -1121,3 +1088,36 @@ Uruguay,URY,2023,1.17371,2020s,0.95
 "Venezuela, Bolivarian Republic of",VEN,2021,-0.42918,2020s,-0.51
 "Venezuela, Bolivarian Republic of",VEN,2022,1.43678,2020s,-0.51
 "Venezuela, Bolivarian Republic of",VEN,2023,0.42493,2020s,-0.51
+Latin America and the Caribbean,LAC,1991,0.771604938,1990s,0.7
+Latin America and the Caribbean,LAC,1992,0.612557427,1990s,0.7
+Latin America and the Caribbean,LAC,1993,0.608828006,1990s,0.7
+Latin America and the Caribbean,LAC,1994,0.756429652,1990s,0.7
+Latin America and the Caribbean,LAC,1995,0.600600601,1990s,0.7
+Latin America and the Caribbean,LAC,1996,0.895522388,1990s,0.7
+Latin America and the Caribbean,LAC,1997,1.035502959,1990s,0.7
+Latin America and the Caribbean,LAC,1998,0.732064422,1990s,0.7
+Latin America and the Caribbean,LAC,1999,0.581395349,1990s,0.7
+Latin America and the Caribbean,LAC,2000,0.722543353,2000s,0.7
+Latin America and the Caribbean,LAC,2001,0.717360115,2000s,0.7
+Latin America and the Caribbean,LAC,2002,0.56980057,2000s,0.7
+Latin America and the Caribbean,LAC,2003,0.708215297,2000s,0.7
+Latin America and the Caribbean,LAC,2004,0.843881857,2000s,0.7
+Latin America and the Caribbean,LAC,2005,0.836820084,2000s,0.7
+Latin America and the Caribbean,LAC,2006,0.829875519,2000s,0.7
+Latin America and the Caribbean,LAC,2007,0.960219479,2000s,0.7
+Latin America and the Caribbean,LAC,2008,0.815217391,2000s,0.7
+Latin America and the Caribbean,LAC,2009,0.134770889,2000s,0.7
+Latin America and the Caribbean,LAC,2010,0.538358008,2010s,0.6
+Latin America and the Caribbean,LAC,2011,0.803212851,2010s,0.6
+Latin America and the Caribbean,LAC,2012,0.664010624,2010s,0.6
+Latin America and the Caribbean,LAC,2013,0.527704485,2010s,0.6
+Latin America and the Caribbean,LAC,2014,0.393700787,2010s,0.6
+Latin America and the Caribbean,LAC,2015,0.261437908,2015s,0.3
+Latin America and the Caribbean,LAC,2016,0.260756193,2015s,0.3
+Latin America and the Caribbean,LAC,2017,0.390117035,2015s,0.3
+Latin America and the Caribbean,LAC,2018,0.259067358,2015s,0.3
+Latin America and the Caribbean,LAC,2019,0.258397933,2015s,0.3
+Latin America and the Caribbean,LAC,2020,-1.546391753,2020s,0.2
+Latin America and the Caribbean,LAC,2021,-0.261780105,2020s,0.2
+Latin America and the Caribbean,LAC,2022,2.099737533,2020s,0.2
+Latin America and the Caribbean,LAC,2023,0.642673522,2020s,0.2
