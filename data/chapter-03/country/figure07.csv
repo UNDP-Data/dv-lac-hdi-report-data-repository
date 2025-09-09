@@ -1,4 +1,4 @@
-Country,iso_code_3,Type,share,Rank
+country,iso_code_3,type,share,rank
 Argentina,ARG,Public services,45.95,1
 Argentina,ARG,Public order and safety,24.32,2
 Argentina,ARG,Healthcare,10.81,3
