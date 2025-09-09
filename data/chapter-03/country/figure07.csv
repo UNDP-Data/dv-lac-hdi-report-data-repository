@@ -1,4 +1,4 @@
-country,iso_code_3,type,share,rank
+Country,iso_code_3,Type,share,Rank
 Argentina,ARG,Public services,45.95,1
 Argentina,ARG,Public order and safety,24.32,2
 Argentina,ARG,Healthcare,10.81,3
@@ -21,29 +21,25 @@ Chile,CHL,Public services,20.34,3
 Chile,CHL,Public order and safety,13.56,4
 Chile,CHL,Social protection,6.78,5
 Chile,CHL,Education,5.08,6
-Chile,CHL,Others,3.39,7
-Chile,CHL,Others,1.69,8
+Chile,CHL,Others,5.08,7
 Colombia,COL,Economic affairs,33.64,1
 Colombia,COL,Public services,29.55,2
 Colombia,COL,Public order and safety,10.45,3
-Colombia,COL,Education,7.27,4
-Colombia,COL,Social protection,5.91,5
-Colombia,COL,Others,4.09,6
+Colombia,COL,Others,9.09,4
+Colombia,COL,Education,7.27,5
+Colombia,COL,Social protection,5.91,6
 Colombia,COL,Healthcare,4.09,7
-Colombia,COL,Others,1.82,8
-Colombia,COL,Others,1.82,9
-Colombia,COL,Others,1.36,10
 Costa Rica,CRI,Public services,42.86,1
 Costa Rica,CRI,Education,14.29,2
-Costa Rica,CRI,Public order and safety,14.29,3
-Costa Rica,CRI,Social protection,14.29,4
-Costa Rica,CRI,Healthcare,14.29,5
+Costa Rica,CRI,Healthcare,14.29,3
+Costa Rica,CRI,Public order and safety,14.29,4
+Costa Rica,CRI,Social protection,14.29,5
 Dominican Republic,DOM,Public services,28.57,1
 Dominican Republic,DOM,Economic affairs,14.29,2
 Dominican Republic,DOM,Education,14.29,3
-Dominican Republic,DOM,Public order and safety,14.29,4
-Dominican Republic,DOM,Social protection,14.29,5
-Dominican Republic,DOM,Healthcare,14.29,6
+Dominican Republic,DOM,Healthcare,14.29,4
+Dominican Republic,DOM,Public order and safety,14.29,5
+Dominican Republic,DOM,Social protection,14.29,6
 Ecuador,ECU,Public order and safety,36.36,1
 Ecuador,ECU,Public services,36.36,2
 Ecuador,ECU,Economic affairs,18.18,3
@@ -52,8 +48,8 @@ El Salvador,SLV,Healthcare,50,1
 El Salvador,SLV,Public services,33.33,2
 El Salvador,SLV,Education,16.67,3
 Grenada,GRD,Public services,100,1
-Guatemala,GTM,Public services,50,1
-Guatemala,GTM,Others,50,2
+Guatemala,GTM,Others,50,1
+Guatemala,GTM,Public services,50,2
 Guyana,GUY,Public order and safety,50,1
 Guyana,GUY,Public services,50,2
 Honduras,HND,Economic affairs,33.33,1
@@ -64,10 +60,8 @@ Mexico,MEX,Public services,37.97,1
 Mexico,MEX,Public order and safety,31.65,2
 Mexico,MEX,Education,11.39,3
 Mexico,MEX,Economic affairs,10.13,4
-Mexico,MEX,Healthcare,3.8,5
-Mexico,MEX,Others,2.53,6
-Mexico,MEX,Others,1.27,7
-Mexico,MEX,Others,1.27,8
+Mexico,MEX,Others,5.06,5
+Mexico,MEX,Healthcare,3.8,6
 Nicaragua,NIC,Healthcare,100,1
 Panama,PAN,Public order and safety,50,1
 Panama,PAN,Economic affairs,25,2
@@ -79,8 +73,7 @@ Peru,PER,Healthcare,28.57,1
 Peru,PER,Public services,28.57,2
 Peru,PER,Economic affairs,23.81,3
 Peru,PER,Education,9.52,4
-Peru,PER,Others,4.76,5
-Peru,PER,Others,4.76,6
+Peru,PER,Others,9.52,5
 Trinidad and Tobago,TTO,Public order and safety,100,1
 Uruguay,URY,Economic affairs,44.83,1
 Uruguay,URY,Public services,31.03,2
